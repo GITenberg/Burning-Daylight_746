@@ -1,0 +1,35 @@
+_repo: Burning-Daylight_746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: A prospector nicknamed Burning Daylight strikes it rich during the Alaskan
+  Gold Rush, but after he's cheated out of his fortune by crooks on Wall Street, he
+  becomes a scoundrel. Moving to Oakland, California, he buys property, and sets up
+  utilities and public transportation systems through overbearing and shady tactics.
+  He becomes self-indulgent with drink and food. And then, for the first time, he
+  falls in love.
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women pioneers -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Gold mines and mining -- Alaska -- Fiction'
+- !lcsh 'Bankruptcy -- Fiction'
+- !lcsh 'Oakland (Calif.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Burning Daylight
+url: http://www.gutenberg.org/ebooks/746
